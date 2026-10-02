@@ -1,0 +1,12 @@
+{
+  "attachmentFolderPath": "raw/assets",
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": false,
+  "userIgnoreFilters": [
+    "_meta/extracted/",
+    ".venv/",
+    "tools/"
+  ]
+}
